@@ -1,0 +1,92 @@
+{D:/SystemDesignLab/RISC_V_CPU_design/sim/Decode [ID]/adder_4bits.v} {1 {vlog -work work -vopt -stats=none {D:/SystemDesignLab/RISC_V_CPU_design/sim/Decode [ID]/adder_4bits.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_4bits
+
+Top level modules:
+	adder_4bits
+
+} {} {}} {D:/SystemDesignLab/RISC_V_CPU_design/sim/Decode [ID]/Branch_Test.v} {1 {vlog -work work -vopt -stats=none {D:/SystemDesignLab/RISC_V_CPU_design/sim/Decode [ID]/Branch_Test.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Branch_Test
+
+Top level modules:
+	Branch_Test
+
+} {} {}} {D:/SystemDesignLab/RISC_V_CPU_design/sim/Decode [ID]/decode_register_5bits.v} {1 {vlog -work work -vopt -stats=none {D:/SystemDesignLab/RISC_V_CPU_design/sim/Decode [ID]/decode_register_5bits.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module decode_register_5bits
+
+Top level modules:
+	decode_register_5bits
+
+} {} {}} {D:/SystemDesignLab/RISC_V_CPU_design/sim/Decode [ID]/mux_2to1.v} {1 {vlog -work work -vopt -stats=none {D:/SystemDesignLab/RISC_V_CPU_design/sim/Decode [ID]/mux_2to1.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module mux_2to1
+
+Top level modules:
+	mux_2to1
+
+} {} {}} {D:/SystemDesignLab/RISC_V_CPU_design/sim/Decode [ID]/Registers.v} {1 {vlog -work work -vopt -stats=none {D:/SystemDesignLab/RISC_V_CPU_design/sim/Decode [ID]/Registers.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module registers
+
+Top level modules:
+	registers
+
+} {} {}} D:/SystemDesignLab/RISC_V_CPU_design/src/Decode_tb.v {1 {vlog -work work -vopt -stats=none D:/SystemDesignLab/RISC_V_CPU_design/src/Decode_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Decode_tb
+
+Top level modules:
+	Decode_tb
+
+} {} {}} {D:/SystemDesignLab/RISC_V_CPU_design/sim/Decode [ID]/RBW_Registers.v} {1 {vlog -work work -vopt -stats=none {D:/SystemDesignLab/RISC_V_CPU_design/sim/Decode [ID]/RBW_Registers.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module RBW_registers
+
+Top level modules:
+	RBW_registers
+
+} {} {}} D:/SystemDesignLab/RISC_V_CPU_design/src/ID.v {1 {vlog -work work -vopt -stats=none D:/SystemDesignLab/RISC_V_CPU_design/src/ID.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ID
+
+Top level modules:
+	ID
+
+} {} {}} {D:/SystemDesignLab/RISC_V_CPU_design/sim/Decode [ID]/Type_judgement.v} {1 {vlog -work work -vopt -stats=none {D:/SystemDesignLab/RISC_V_CPU_design/sim/Decode [ID]/Type_judgement.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Type_judgement
+
+Top level modules:
+	Type_judgement
+
+} {} {}} {D:/SystemDesignLab/RISC_V_CPU_design/sim/Decode [ID]/adder_cs.v} {1 {vlog -work work -vopt -stats=none {D:/SystemDesignLab/RISC_V_CPU_design/sim/Decode [ID]/adder_cs.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_cs
+
+Top level modules:
+	adder_cs
+
+} {} {}} {D:/SystemDesignLab/RISC_V_CPU_design/sim/Decode [ID]/adder_32bits.v} {1 {vlog -work work -vopt -stats=none {D:/SystemDesignLab/RISC_V_CPU_design/sim/Decode [ID]/adder_32bits.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_32bits
+
+Top level modules:
+	adder_32bits
+
+} {} {}} {D:/SystemDesignLab/RISC_V_CPU_design/sim/Decode [ID]/D_trigger.v} {1 {vlog -work work -vopt -stats=none {D:/SystemDesignLab/RISC_V_CPU_design/sim/Decode [ID]/D_trigger.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module D_trigger
+
+Top level modules:
+	D_trigger
+
+} {} {}} D:/SystemDesignLab/RISC_V_CPU_design/src/Decode.v {1 {vlog -work work -vopt -stats=none D:/SystemDesignLab/RISC_V_CPU_design/src/Decode.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Decode
+
+Top level modules:
+	Decode
+
+} {} {}}

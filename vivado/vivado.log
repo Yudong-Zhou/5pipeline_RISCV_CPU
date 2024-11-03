@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Thu Dec  7 10:45:44 2023
+# Process ID: 7836
+# Current directory: G:/RISC_V_CPU_design_final/vivado
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8104 G:\RISC_V_CPU_design_final\vivado\Risc5CPU.xpr
+# Log file: G:/RISC_V_CPU_design_final/vivado/vivado.log
+# Journal file: G:/RISC_V_CPU_design_final/vivado\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project G:/RISC_V_CPU_design_final/vivado/Risc5CPU.xpr
+INFO: [Project 1-313] Project file moved from 'G:/RISC_V_CPU_design/vivado' since last save.
+Scanning sources...
+ERROR: [Common 17-70] Application Exception: SrcMgr::createSS : type not set
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Dec  7 10:47:24 2023...

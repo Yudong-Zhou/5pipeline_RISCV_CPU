@@ -1,0 +1,64 @@
+D:/SystemDesignLab/RISC_V_CPU_design/sim/IF/D_trigger.v {1 {vlog -work work -vopt -stats=none D:/SystemDesignLab/RISC_V_CPU_design/sim/IF/D_trigger.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module D_trigger
+
+Top level modules:
+	D_trigger
+
+} {} {}} D:/SystemDesignLab/RISC_V_CPU_design/sim/IF/mux_2to1.v {1 {vlog -work work -vopt -stats=none D:/SystemDesignLab/RISC_V_CPU_design/sim/IF/mux_2to1.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module mux_2to1
+
+Top level modules:
+	mux_2to1
+
+} {} {}} D:/SystemDesignLab/RISC_V_CPU_design/src/IF.v {1 {vlog -work work -vopt -stats=none D:/SystemDesignLab/RISC_V_CPU_design/src/IF.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module IF1
+
+Top level modules:
+	IF1
+
+} {} {}} D:/SystemDesignLab/RISC_V_CPU_design/sim/IF/InstructionROM_32bits_input.v {1 {vlog -work work -vopt -stats=none D:/SystemDesignLab/RISC_V_CPU_design/sim/IF/InstructionROM_32bits_input.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module InstructionROM_32bits_input
+
+Top level modules:
+	InstructionROM_32bits_input
+
+} {} {}} D:/SystemDesignLab/RISC_V_CPU_design/sim/IF/adder_cs.v {1 {vlog -work work -vopt -stats=none D:/SystemDesignLab/RISC_V_CPU_design/sim/IF/adder_cs.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_cs
+
+Top level modules:
+	adder_cs
+
+} {} {}} D:/SystemDesignLab/RISC_V_CPU_design/sim/IF/adder_4bits.v {1 {vlog -work work -vopt -stats=none D:/SystemDesignLab/RISC_V_CPU_design/sim/IF/adder_4bits.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_4bits
+
+Top level modules:
+	adder_4bits
+
+} {} {}} D:/SystemDesignLab/RISC_V_CPU_design/src/InstructionROM.v {1 {vlog -work work -vopt -stats=none D:/SystemDesignLab/RISC_V_CPU_design/src/InstructionROM.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module InstructionROM
+
+Top level modules:
+	InstructionROM
+
+} {} {}} D:/SystemDesignLab/RISC_V_CPU_design/src/IF_tb.v {1 {vlog -work work -vopt -stats=none D:/SystemDesignLab/RISC_V_CPU_design/src/IF_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module IF_tb
+
+Top level modules:
+	IF_tb
+
+} {} {}} D:/SystemDesignLab/RISC_V_CPU_design/sim/IF/adder_32bits.v {1 {vlog -work work -vopt -stats=none D:/SystemDesignLab/RISC_V_CPU_design/sim/IF/adder_32bits.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_32bits
+
+Top level modules:
+	adder_32bits
+
+} {} {}}

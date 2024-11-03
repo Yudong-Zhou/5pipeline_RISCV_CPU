@@ -1,0 +1,16 @@
+//////////////////////////////////////////////////////////////////////////////////
+// Author:Zhou Yudong
+// D_register.v
+//////////////////////////////////////////////////////////////////////////////////
+`timescale 1ns / 1ps
+module D_register(clk, r, en, d, q);
+  parameter n = 32;
+  input clk, r, en;
+  input [n-1:0] d;
+  output [n-1:0] q;
+  reg [n-1:] q;
+  
+  always@(posedge clk) begin
+    if(r) q = {n{1'b0}};
+		else if(en) q=d;
+    

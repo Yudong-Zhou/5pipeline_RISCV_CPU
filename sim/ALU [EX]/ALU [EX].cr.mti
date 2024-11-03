@@ -1,0 +1,71 @@
+{D:/SystemDesignLab/RISC_V_CPU_design/sim/ALU [EX]/mux_2to1.v} {1 {vlog -work work -vopt -stats=none {D:/SystemDesignLab/RISC_V_CPU_design/sim/ALU [EX]/mux_2to1.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module mux_2to1
+
+Top level modules:
+	mux_2to1
+
+} {} {}} {D:/SystemDesignLab/RISC_V_CPU_design/sim/ALU [EX]/forwarding.v} {1 {vlog -work work -vopt -stats=none {D:/SystemDesignLab/RISC_V_CPU_design/sim/ALU [EX]/forwarding.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module forwarding
+
+Top level modules:
+	forwarding
+
+} {} {}} {D:/SystemDesignLab/RISC_V_CPU_design/sim/ALU [EX]/mux_ALU.v} {1 {vlog -work work -vopt -stats=none {D:/SystemDesignLab/RISC_V_CPU_design/sim/ALU [EX]/mux_ALU.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module mux_ALU
+
+Top level modules:
+	mux_ALU
+
+} {} {}} D:/SystemDesignLab/RISC_V_CPU_design/src/ALU.v {1 {vlog -work work -vopt -stats=none D:/SystemDesignLab/RISC_V_CPU_design/src/ALU.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {D:/SystemDesignLab/RISC_V_CPU_design/sim/ALU [EX]/mux_3to1.v} {1 {vlog -work work -vopt -stats=none {D:/SystemDesignLab/RISC_V_CPU_design/sim/ALU [EX]/mux_3to1.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module mux_3to1
+
+Top level modules:
+	mux_3to1
+
+} {} {}} D:/SystemDesignLab/RISC_V_CPU_design/src/ALU_tb.v {1 {vlog -work work -vopt -stats=none D:/SystemDesignLab/RISC_V_CPU_design/src/ALU_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ALU_tb
+
+Top level modules:
+	ALU_tb
+
+} {} {}} {D:/SystemDesignLab/RISC_V_CPU_design/sim/ALU [EX]/adder_4bits.v} {1 {vlog -work work -vopt -stats=none {D:/SystemDesignLab/RISC_V_CPU_design/sim/ALU [EX]/adder_4bits.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_4bits
+
+Top level modules:
+	adder_4bits
+
+} {} {}} {D:/SystemDesignLab/RISC_V_CPU_design/sim/ALU [EX]/adder_cs.v} {1 {vlog -work work -vopt -stats=none {D:/SystemDesignLab/RISC_V_CPU_design/sim/ALU [EX]/adder_cs.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_cs
+
+Top level modules:
+	adder_cs
+
+} {} {}} D:/SystemDesignLab/RISC_V_CPU_design/src/EX.v {1 {vlog -work work -vopt -stats=none D:/SystemDesignLab/RISC_V_CPU_design/src/EX.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module EX
+
+Top level modules:
+	EX
+
+} {} {}} {D:/SystemDesignLab/RISC_V_CPU_design/sim/ALU [EX]/adder_32bits.v} {1 {vlog -work work -vopt -stats=none {D:/SystemDesignLab/RISC_V_CPU_design/sim/ALU [EX]/adder_32bits.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module adder_32bits
+
+Top level modules:
+	adder_32bits
+
+} {} {}}

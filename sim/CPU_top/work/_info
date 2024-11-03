@@ -1,0 +1,627 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/SystemDesignLab/CPU_design/sim/CPU_top
+T_opt
+!s110 1701850836
+VCQW@i2>G=Ba0aM^^ZzCel1
+Z1 04 13 4 work Risc5CPU_tb_v fast 0
+=1-842afd129a83-65702ed4-264-2cfc
+Z2 o-quiet -auto_acc_if_foreign -work work -L unisims_ver -L simprims_ver +acc
+n@_opt
+Z3 OL;O;10.4;61
+R0
+T_opt1
+!s110 1704112819
+VL??U;95>aN[SG^BG7]0g90
+R1
+=1-842afd129a83-6592b2b2-3b3-3c2c
+R2
+n@_opt1
+R3
+vadder_32bits
+Z4 !s110 1701850718
+!i10b 1
+!s100 ^29K]YC2S9a:nKJOCEeOm0
+I1NAj;SSXEIS`nihP78W?l2
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top
+w1701442784
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/adder_32bits.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/adder_32bits.v
+L0 6
+Z7 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1701850718.974000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/adder_32bits.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/adder_32bits.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vadder_4bits
+R4
+!i10b 1
+!s100 G;P]fHECaPlic5D__fo3z0
+I[Z]7<]b>OB6kE91IM2eOY1
+R5
+R6
+w1701442792
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/adder_4bits.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/adder_4bits.v
+L0 6
+R7
+r1
+!s85 0
+31
+!s108 1701850718.913000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/adder_4bits.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/adder_4bits.v|
+!i113 0
+R8
+vadder_cs
+Z9 !s110 1701850719
+!i10b 1
+!s100 ;m3<<296_2z?8lR8gMA7>1
+I]H:iT?ha9eQ`0<20a>QS31
+R5
+R6
+w1701442798
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/adder_cs.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/adder_cs.v
+L0 6
+R7
+r1
+!s85 0
+31
+!s108 1701850719.040000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/adder_cs.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/adder_cs.v|
+!i113 0
+R8
+vALU
+R9
+!i10b 1
+!s100 ffJe`B5gO:gBlT]_LH89N0
+IiVDW9zc<BShT>G1=?H:IE1
+R5
+R6
+w1701697272
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/ALU.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/ALU.v
+L0 6
+R7
+r1
+!s85 0
+31
+!s108 1701850719.096000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/ALU.v|
+!i113 0
+R8
+n@a@l@u
+vBranch_Test
+R9
+!i10b 1
+!s100 1RVZ0WRO@9hzJI<EBkGi62
+IC>RO]@;YEh@@LT>NGIM2I1
+R5
+R6
+w1701697283
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/Branch_Test.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/Branch_Test.v
+L0 6
+R7
+r1
+!s85 0
+31
+!s108 1701850719.153000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/Branch_Test.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/Branch_Test.v|
+!i113 0
+R8
+n@branch_@test
+vD_trigger
+R9
+!i10b 1
+!s100 SD1h9Mj9bzDBEj5hhLhAk2
+IMIP2YF4Z>:6L5`@VW4m[T2
+R5
+R6
+w1701696769
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/D_trigger.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/D_trigger.v
+L0 6
+R7
+r1
+!s85 0
+31
+!s108 1701850719.209000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/D_trigger.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/D_trigger.v|
+!i113 0
+R8
+n@d_trigger
+vDataRAM
+R9
+!i10b 1
+!s100 Wem@Vh_J5cd<4nSm;aL@40
+IT;BMo8eHcgJZ4oo[8eRX80
+R5
+R6
+Z10 w1701665982
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/DataRAM.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/DataRAM.v
+L0 56
+R7
+r1
+!s85 0
+31
+!s108 1701850719.267000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/DataRAM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/DataRAM.v|
+!i113 0
+R8
+n@data@r@a@m
+vDecode
+R9
+!i10b 1
+!s100 2VMmeeh;mXmEaKO4^A[900
+I_l8Xa=6e07n;T9^zmGIX81
+R5
+R6
+w1701442216
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/Decode.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/Decode.v
+L0 6
+R7
+r1
+!s85 0
+31
+!s108 1701850719.329000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/Decode.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/Decode.v|
+!i113 0
+R8
+n@decode
+vdecode_register_5bits
+R9
+!i10b 1
+!s100 zWn>h>]I4=U;5=n4`<Z]11
+Ie0UQd8J4o]ZF;[E3zn4<K0
+R5
+R6
+w1701421618
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/decode_register_5bits.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/decode_register_5bits.v
+L0 6
+R7
+r1
+!s85 0
+31
+!s108 1701850719.387000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/decode_register_5bits.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/decode_register_5bits.v|
+!i113 0
+R8
+vdist_mem_gen_v8_0_13
+R9
+!i10b 1
+!s100 R<1R?m:RY^H;FWU@n][C12
+IjjaiBbo[@jA[oHIhRK_`e1
+R5
+R6
+R10
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/dist_mem_gen_v8_0.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/dist_mem_gen_v8_0.v
+L0 78
+R7
+r1
+!s85 0
+31
+!s108 1701850719.447000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/dist_mem_gen_v8_0.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/dist_mem_gen_v8_0.v|
+!i113 0
+R8
+vEX
+R9
+!i10b 1
+!s100 jbGLhT_=OHg3nnPhi72>O3
+IFdcoe77aSk<E3oiMHmTHM2
+R5
+R6
+w1701678084
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/EX.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/EX.v
+L0 6
+R7
+r1
+!s85 0
+31
+!s108 1701850719.509000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/EX.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/EX.v|
+!i113 0
+R8
+n@e@x
+vEX_MEM_REG
+R9
+!i10b 1
+!s100 ^U;lz76c;9T]:^@STmEkY1
+Ic65e<GMWT<4Q^@=8]Lhcl1
+R5
+R6
+w1701674796
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/EX_MEM_REG.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/EX_MEM_REG.v
+L0 6
+R7
+r1
+!s85 0
+31
+!s108 1701850719.566000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/EX_MEM_REG.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/EX_MEM_REG.v|
+!i113 0
+R8
+n@e@x_@m@e@m_@r@e@g
+vforwarding
+R9
+!i10b 1
+!s100 JSfkR[jWzMT;jDhh6QY:M3
+IEJ6Qbh91U;?kXUPK44OQ^1
+R5
+R6
+w1701700737
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/forwarding.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/forwarding.v
+L0 6
+R7
+r1
+!s85 0
+31
+!s108 1701850719.624000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/forwarding.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/forwarding.v|
+!i113 0
+R8
+vglbl
+R9
+!i10b 1
+!s100 JWZ^meD<P7inSF0<1SiO32
+IeX`CBXZlflM_8RL4n8?GY2
+R5
+R6
+w1558713910
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/glbl.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/glbl.v
+L0 6
+R7
+r1
+!s85 0
+31
+!s108 1701850719.684000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/glbl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/glbl.v|
+!i113 0
+R8
+vID
+R9
+!i10b 1
+!s100 aJQziCzSO`=clL[>>oz4G2
+Ichg`0I]1^dRiOP`:f;J=l3
+R5
+R6
+w1701850715
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/ID.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/ID.v
+L0 6
+R7
+r1
+!s85 0
+31
+!s108 1701850719.742000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/ID.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/ID.v|
+!i113 0
+R8
+n@i@d
+vID_EX_REG
+R9
+!i10b 1
+!s100 fc6Q@jX05Gf@m7j7_1e_62
+I@mC0==k0X=7WDbA[XW2Td2
+R5
+R6
+w1701671290
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/ID_EX_REG.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/ID_EX_REG.v
+L0 6
+R7
+r1
+!s85 0
+31
+!s108 1701850719.799000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/ID_EX_REG.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/ID_EX_REG.v|
+!i113 0
+R8
+n@i@d_@e@x_@r@e@g
+vIF1
+R9
+!i10b 1
+!s100 ?>jASH8YM7ELHUK3JojS22
+ILW0^SVaZFJgPEFBNbShU01
+R5
+R6
+w1701699037
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/IF.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/IF.v
+L0 6
+R7
+r1
+!s85 0
+31
+!s108 1701850719.857000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/IF.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/IF.v|
+!i113 0
+R8
+n@i@f1
+vIF_ID_REG
+R9
+!i10b 1
+!s100 le6LD4?6la]QP5J27cZBQ0
+IDoMHYbjzYf?NmLj9OZlF92
+R5
+R6
+w1701828118
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/IF_ID_REG.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/IF_ID_REG.v
+L0 6
+R7
+r1
+!s85 0
+31
+!s108 1701850719.913000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/IF_ID_REG.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/IF_ID_REG.v|
+!i113 0
+R8
+n@i@f_@i@d_@r@e@g
+vInstructionROM
+Z11 !s110 1701850720
+!i10b 1
+!s100 BWcnPGdXOkGW1NQn?^LK82
+I?Bk8_aeJ]Wj=RCEzS<Jh^0
+R5
+R6
+w1695776098
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/InstructionROM.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/InstructionROM.v
+L0 19
+R7
+r1
+!s85 0
+31
+!s108 1701850719.987000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/InstructionROM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/InstructionROM.v|
+!i113 0
+R8
+n@instruction@r@o@m
+vInstructionROM_32bits_input
+!s110 1701698373
+!i10b 1
+!s100 mXHi;RKEehSzhb5E;@kM40
+I=0QXce^e8HT1H5MRhMOOZ0
+R5
+R6
+w1701505700
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/IF/InstructionROM_32bits_input.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/IF/InstructionROM_32bits_input.v
+L0 20
+R7
+r1
+!s85 0
+31
+!s108 1701698373.881000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/IF/InstructionROM_32bits_input.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/IF/InstructionROM_32bits_input.v|
+!i113 0
+R8
+n@instruction@r@o@m_32bits_input
+vMEM_WB_REG
+R11
+!i10b 1
+!s100 ]TR@MdgUH69nFGEUb@Y211
+I_c>I:c6;mUzD>;0^=JK=R1
+R5
+R6
+w1701674934
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/MEM_WB_REG.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/MEM_WB_REG.v
+L0 6
+R7
+r1
+!s85 0
+31
+!s108 1701850720.049000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/MEM_WB_REG.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/MEM_WB_REG.v|
+!i113 0
+R8
+n@m@e@m_@w@b_@r@e@g
+vmux_2to1
+R11
+!i10b 1
+!s100 SRGGh7`cKDO^BS<bIR;`o3
+IAbm483UDOkZn63IX7Hl7k0
+R5
+R6
+w1701677050
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/mux_2to1.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/mux_2to1.v
+L0 6
+R7
+r1
+!s85 0
+31
+!s108 1701850720.113000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/mux_2to1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/mux_2to1.v|
+!i113 0
+R8
+vmux_3to1
+R11
+!i10b 1
+!s100 >FJ4_FO<]E]<R5ibImn<k0
+Im>Wnk<<1c<f:ZComF5hh61
+R5
+R6
+w1701677924
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/mux_3to1.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/mux_3to1.v
+L0 6
+R7
+r1
+!s85 0
+31
+!s108 1701850720.176000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/mux_3to1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/mux_3to1.v|
+!i113 0
+R8
+vmux_ALU
+R11
+!i10b 1
+!s100 ?4Qd_5Q5>M2A<ni5JE]Zg0
+IO?DT^5:M4VhiVnQ7beCNH2
+R5
+R6
+w1701490088
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/mux_ALU.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/mux_ALU.v
+L0 6
+R7
+r1
+!s85 0
+31
+!s108 1701850720.240000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/mux_ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/mux_ALU.v|
+!i113 0
+R8
+nmux_@a@l@u
+vRBW_registers
+R11
+!i10b 1
+!s100 <1Zn^W^23GUSN7;nd:CBg2
+I??SWdia61LNg0<So_TlCI1
+R5
+R6
+w1701507700
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/RBW_Registers.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/RBW_Registers.v
+L0 6
+R7
+r1
+!s85 0
+31
+!s108 1701850720.300000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/RBW_Registers.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/RBW_Registers.v|
+!i113 0
+R8
+n@r@b@w_registers
+vRegisters
+R11
+!i10b 1
+!s100 :eLJ>;TZb0dV=XSga=iHA0
+IWHjG7YfSTNA[VUD0nZgTj2
+R5
+R6
+w1701696337
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/Registers.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/Registers.v
+L0 6
+R7
+r1
+!s85 0
+31
+!s108 1701850720.360000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/Registers.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/Registers.v|
+!i113 0
+R8
+n@registers
+vRisc5CPU
+R11
+!i10b 1
+!s100 Jdh[1cFR7oc8_=o@TlJ[U2
+IG8:ANKD31`I4^V][QhGHF3
+R5
+R6
+w1701831196
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/Risc5CPU.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/Risc5CPU.v
+L0 6
+R7
+r1
+!s85 0
+31
+!s108 1701850720.428000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/Risc5CPU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/Risc5CPU.v|
+!i113 0
+R8
+n@risc5@c@p@u
+vRisc5CPU_tb_v
+R11
+!i10b 1
+!s100 5=Dc;E@Y^JW0MlkJLk4oZ0
+IDD3ZII^8z01biXU>Ha;1G2
+R5
+R6
+w1701699250
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/Risc5CPU_tb.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/Risc5CPU_tb.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1701850720.484000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/Risc5CPU_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/Risc5CPU_tb.v|
+!i113 0
+R8
+n@risc5@c@p@u_tb_v
+vType_judgement
+R11
+!i10b 1
+!s100 ee6dgf6K:aT1K<Lj6k=1n3
+I41HHLWoHFehc4<nge7H`T2
+R5
+R6
+w1701830550
+8D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/Type_judgement.v
+FD:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/Type_judgement.v
+L0 6
+R7
+r1
+!s85 0
+31
+!s108 1701850720.540000
+!s107 D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/Type_judgement.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/SystemDesignLab/RISC_V_CPU_design/sim/CPU_top/Type_judgement.v|
+!i113 0
+R8
+n@type_judgement
